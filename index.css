@@ -45,13 +45,13 @@ p{
     color: white;
 }
 a{
-    margin-left: 25px;
+    /* margin-left: 25px; */
     color: #fff;
     text-decoration: none;
     letter-spacing: 2px;
 }
 a:hover{
-    color: rgb(167, 253, 8);
+    color: rgb(175, 241, 51);
 }
 .home-area{
     /* position: relative; */
